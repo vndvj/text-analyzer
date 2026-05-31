@@ -1,7 +1,7 @@
 This is a beginner level Python text analysis tool. It was created as an introductory exercise in computational linguistics and basic natural language processing.
 The program takes textual input from the user and performs basic statistical analysis.
 
-**What it does**
+## What it does
 
 Counts total number of words (tokens)
 
@@ -14,7 +14,7 @@ Removes punctuation
 Performs basic tokenization using split()
 
 
-**Concepts used:**
+## Concepts used
 
 Strings and string manipulation
 
@@ -27,7 +27,7 @@ Loops
 Basic text preprocessing
 
 
-**How it works**
+## How it works
 
 The user enters a text input
 
@@ -41,7 +41,7 @@ The result displays the total number of words, the number of unique words and th
 
 
 
-**Example**
+## Example
 
 Input: I love love linguistics!
 
